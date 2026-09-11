@@ -9,5 +9,6 @@ AP Computer Science A Capstone Project. A space invaders-inspired game built usi
 Built using Processing's draw loop for rendering and input handling. Enemy sprites move as a group with periodic direction changes, player input
 controls (A/D) a ship with shooting mechanics (lmb), and collision detection between projectiles
 
-## Built
-June 2024
+## Notes
+**Built** June 2024
+**Sprites** From the internet and not locally found in repo files
