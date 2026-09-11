@@ -11,4 +11,5 @@ controls (A/D) a ship with shooting mechanics (lmb), and collision detection bet
 
 ## Notes
 **Built** June 2024
+
 **Sprites** From the internet and not locally found in repo files
